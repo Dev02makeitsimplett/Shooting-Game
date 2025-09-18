@@ -1,0 +1,12 @@
+[
+ { "question": "5 + 3", "answer": 8, "choices": [7, 8, 9] },
+ { "question": "10 - 4", "answer": 6, "choices": [5, 6, 8] },
+ { "question": "6 x 2", "answer": 12, "choices": [10, 12, 14] },
+ { "question": "9 ÷ 3", "answer": 3, "choices": [2, 3, 4] },
+ {"question": "What does RAM mean?", "answer":"Random Access Memory","choices":["Random Access Memory", "ReAding Memory", "Recent Access Memory"]},
+ {"question": "What does LAN mean?", "answer":"Local Area Network", "choices":["Local Access Network", "Loyal Area NewChip", "Local Area Network"]},
+ {"question": "What does a CPU do?", "answer": "It's the brain of the computer", "choices":["It's the main button in a printer", "It's the brain of the computer", "It controls the bits in a computer"]},
+ {"question": "When the computer is working on a given instructions, its called", "answer":"processing", "choices":["output", "storage", "processing"]},
+ {"question": "3 x 3", "answer": 9, "choices":[5, 13, 9]},
+ {"question": "Hexadecimal has a base value of", "answer": 16, "choices":[6, 16, 18]}
+]
